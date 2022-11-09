@@ -20,6 +20,7 @@ Then we will employ input statements to retrieve customer weather preferences. N
 
 Finally we create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, we'll create a marker layer map with a pop-up marker for each city on the itinerary.
 
-<img width="442" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/113747210/200963725-76eac13d-f532-44f0-94ff-5d36b5626ac1.png">
+<img width="442" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/113747210/200964035-1fc91769-8c31-427e-9348-c7686a853f5b.png">
+
 
 
